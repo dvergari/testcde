@@ -1,2 +1,4 @@
 pyspark==3.5.1
 boto3==1.36.19
+apache-airflow==2.9.3
+apache-airflow-py
